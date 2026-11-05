@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dpdp-act-skills"
+version = "1.0.0"
+description = "Verified AI Agent Skills for India's Digital Personal Data Protection Act, 2023 and DPDP Rules, 2025"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "Ruturaj Jarag", email = "ruturajj@techvishwaguru.com" }
+]
+keywords = [
+    "dpdpa",
+    "dpdp-act",
+    "india-data-privacy",
+    "ai-agent-skills",
+    "claude-skills",
+    "cursor-rules",
+    "antigravity"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Legal Industry",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
