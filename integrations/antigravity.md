@@ -42,3 +42,4 @@ When generating code, architecture, or policy documents that touch digital perso
 3. Validate user age verification safeguards if handling data of children under 18 (Section 9 & Rule 5).
 4. Strictly track enforcement phases under G.S.R. 843(E) (Phase 1: 13 Nov 2025; Phase 2: 13 Nov 2026; Phase 3: 13 May 2027).
 ```
+

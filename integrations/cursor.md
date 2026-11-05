@@ -43,3 +43,4 @@ You have access to the verified statutory skills in `.cursor/skills/`:
    - Phase 3 (13 May 2027): Substantive fiduciary obligations, citizen rights, and penalties.
 3. Structure responses with: Provision, Plain interpretation, Applicable Rule, Commencement status, Compliance implications, Exceptions, and Limitations.
 ```
+

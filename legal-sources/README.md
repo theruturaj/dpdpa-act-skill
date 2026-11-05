@@ -18,3 +18,4 @@ This directory serves as the official statutory baseline for the **Digital Perso
 1. **No Hallucinated Rules**: Subordinate rules are verified against the published Gazette of India texts. Where operational rules remain un-notified, the skills explicitly flag them as "as may be prescribed".
 2. **Temporal & Phase Accuracy**: AI agents must never advise that provisions commencing on 13 November 2026 or 13 May 2027 are already enforceable. The skills explicitly delineate provisions in force today versus those with future commencement.
 3. **Primary Link Architecture**: Source files provide official government links (MeitY, Gazette of India) rather than bloating the repository with binary PDFs.
+

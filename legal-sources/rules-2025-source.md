@@ -39,3 +39,4 @@
 - **Part VII: Appeals & Penalties**
   - Rule 22: Procedures for filing appeals before the Appellate Tribunal (TDSAT) under Section 29.
   - Rule 23: Factors, quantification matrices, and mitigated calculations for financial penalties under Section 33.
+

@@ -15,3 +15,4 @@ If you discover a security vulnerability in the automated testing scripts, CI wo
 If you discover a legal error, misstatement of the statute, or inaccurate enforcement date in the skills suite:
 - Please open an issue using the [Legal Update Template](.github/ISSUE_TEMPLATE/legal_update.md) or file a pull request with official Gazette citations.
 - Submissions will be cross-checked against official MeitY sources before merging.
+

@@ -16,3 +16,4 @@
    - Authorizes digital hearings, telepresence, and electronic proceedings across India.
 3. **Institutional Character**:
    - Digital-by-design institution: electronic filing of complaints, digital summons, secure online exchange of evidence, and publication of speaking orders through secure digital portals.
+

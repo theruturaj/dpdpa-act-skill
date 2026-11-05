@@ -14,3 +14,4 @@ Explain the use case and how it benefits developers or privacy architects.
 
 **Additional context**
 Add any other context, CLI documentation, or tool specifications.
+

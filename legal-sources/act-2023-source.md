@@ -48,3 +48,4 @@ The Act comprises **44 sections** organized across **5 chapters** and **1 Schedu
   - Item 5: Data Principal duty breach (s.15) – Up to ₹10,000.
   - Item 6: Voluntary undertaking breach (s.32) – Up to the penalty applicable to original breach.
   - Item 7: Any other provision or rule breach – Up to ₹50 crore.
+

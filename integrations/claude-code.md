@@ -57,3 +57,4 @@ Add this snippet to your project's `CLAUDE.md` to enforce the statutory answerin
 - Structure all answers using the 8-point statutory framework: (1) Provision, (2) Plain interpretation, (3) DPDP Rule, (4) Commencement status, (5) Compliance implications, (6) Exceptions, (7) Official source, (8) Interpretive limitations.
 - Note the phased enforcement timeline: Phase 1 (13 Nov 2025), Phase 2 (13 Nov 2026), and Phase 3 (13 May 2027). Never present future Phase 3 requirements as already enforceable statutory mandates.
 ```
+

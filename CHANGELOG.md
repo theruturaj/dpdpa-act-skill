@@ -31,3 +31,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Standalone CLI validator script `scripts/validate.py`.
   - GitHub Actions CI workflow `.github/workflows/validate-skills.yml`.
 - **Open-Source Standards**: Added MIT License, `CONTRIBUTING.md`, `SECURITY.md`, and GitHub issue/PR templates.
+

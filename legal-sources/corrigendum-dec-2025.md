@@ -14,3 +14,4 @@
 2. **Harmonization of Technical Terms**:
    - Clarified formatting requirements for digital identifiers in parental verification frameworks under Rule 5.
    - Synchronized vocabulary between Rule 9 (DPIA procedures) and Section 10(2) statutory mandates.
+

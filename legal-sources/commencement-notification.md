@@ -41,3 +41,4 @@ Enforces all operational duties on companies and confers rights upon citizens:
 - **Chapter III (Sections 11–15)**: Data Principal rights (access, correction, erasure, grievance redressal, nomination) and Data Principal duties.
 - **Chapter IV (Sections 16–17)**: Cross-border transfer rules and statutory exemptions.
 - **Chapter V (Sections 27(1)(a)-(c), 28–29, 31–33, 35–39, 42, 44, and the Schedule)**: Full complaints, digital inquiries, TDSAT appeals, mediation, voluntary undertakings, financial penalties up to ₹250 crore, and consequential amendments (TRAI Act, IT Act, RTI Act).
+

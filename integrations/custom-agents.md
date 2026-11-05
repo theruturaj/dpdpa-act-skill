@@ -61,3 +61,4 @@ If indexing skills into a Vector DB (e.g. Pinecone, Chroma, pgvector):
 - **Chunking strategy**: Chunk by Markdown H2 (`##`) headers. Each H2 section (e.g. `## Grounds for Processing`, `## Notice Requirements`) is self-contained.
 - **Metadata tagging**: Attach `statute: DPDP Act 2023`, `rules: DPDP Rules 2025`, and `phase: Phase 1/2/3` to each chunk.
 - **Enforcement filtering**: Filter retrieval results based on client requirement (e.g., filter for currently in force provisions vs preparation for Phase 3).
+
